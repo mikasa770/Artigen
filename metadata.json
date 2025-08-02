@@ -1,0 +1,5 @@
+{
+  "name": "Arti Gen",
+  "description": "Generate unique, stunning art based on your mood and a text prompt. Powered by Google's Imagen 3 model, this tool helps you create the perfect visual representation for your ideas.",
+  "requestFramePermissions": []
+}
